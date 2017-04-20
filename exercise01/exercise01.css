@@ -1,1 +1,55 @@
 /* Add your custom styles here */
+
+body {
+  margin: 0;
+  background-color: #aeaeae;
+}
+
+.container {
+  display: block;
+  width: 960px;
+  margin: 0 auto;
+  background-color: #000;
+}
+
+header {
+  position:absolute;
+  top:0;
+}
+
+ul {
+  margin: 0 auto;
+  color: #fff;
+  list-style-type: none;
+  padding: 12px 0 12px 31px;
+  margin:0;
+}
+
+input {
+  position: absolute;
+  right: 20px;
+  top: 70px;
+}
+
+li {
+  margin-right: 28px;
+  display: inline;
+  font-family: arial, sans-serif;
+  font-weight:normal;
+  font-size:20px;
+}
+
+nav {
+  border: solid #fff;
+  border-width: 1px 0px 1px 0px;
+}
+
+#temp {
+  background-image: url("example01.png");
+  width:960px;
+  height:165px;
+}
+
+.logo {
+  padding: 18px 0 23px 20px;
+}
