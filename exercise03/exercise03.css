@@ -15,6 +15,10 @@
   position: relative;
 }
 
+.RevealCard-header:hover {
+  cursor:pointer;
+}
+
 .RevealCard-header::after {
   border: 1px solid #fff;
   content: "-";
