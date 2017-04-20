@@ -64,6 +64,7 @@ li {
 
 li:hover {
   background-color: #fff;
+  cursor:pointer;
 }
 
 li:hover span {
