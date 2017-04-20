@@ -34,22 +34,23 @@ input {
 }
 
 input[type="text"] {
-    width: 138px;
-    height: 26px;
-    padding-right: 50px;
-    padding-left: 10px;
+  width: 138px;
+  height: 26px;
+  padding-right: 50px;
+  padding-left: 10px;
 }
 
 input[type="submit"] {
-    margin-left: -50px;
-    height: 30px;
-    width: 50px;
-    background-color: grey;
+  margin-left: -50px;
+  height: 30px;
+  width: 50px;
+  background-color: grey;
 }
 
 p {
   display: inline;
 }
+
 li {
   padding: 7px 13px;
   background-color: #000;
