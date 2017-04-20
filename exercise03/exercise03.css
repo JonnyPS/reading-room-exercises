@@ -30,6 +30,18 @@
   width: 1.15em;
 }
 
+.changed::after {
+  border: 1px solid #fff;
+  content: "+";
+  height: 1.15em;
+  line-height: 1em;
+  position: absolute;
+  right: 0.5em;
+  text-align: center;
+  width: 1.15em;
+}
+
+
 .RevealCard-list {
   border: 1px solid #000;
   border-top: none;
